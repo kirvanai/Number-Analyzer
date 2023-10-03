@@ -1,0 +1,14 @@
+C:\Users\kirva\Documents\Grand Circus\Class Repo Oct23\Number Analyzer\Number Analyzer\obj\Debug\net6.0\Number Analyzer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kirva\Documents\Grand Circus\Class Repo Oct23\Number Analyzer\Number Analyzer\obj\Debug\net6.0\Number Analyzer.AssemblyInfoInputs.cache
+C:\Users\kirva\Documents\Grand Circus\Class Repo Oct23\Number Analyzer\Number Analyzer\obj\Debug\net6.0\Number Analyzer.AssemblyInfo.cs
+C:\Users\kirva\Documents\Grand Circus\Class Repo Oct23\Number Analyzer\Number Analyzer\obj\Debug\net6.0\Number Analyzer.csproj.CoreCompileInputs.cache
+C:\Users\kirva\Documents\Grand Circus\Class Repo Oct23\Number Analyzer\Number Analyzer\bin\Debug\net6.0\Number Analyzer.exe
+C:\Users\kirva\Documents\Grand Circus\Class Repo Oct23\Number Analyzer\Number Analyzer\bin\Debug\net6.0\Number Analyzer.deps.json
+C:\Users\kirva\Documents\Grand Circus\Class Repo Oct23\Number Analyzer\Number Analyzer\bin\Debug\net6.0\Number Analyzer.runtimeconfig.json
+C:\Users\kirva\Documents\Grand Circus\Class Repo Oct23\Number Analyzer\Number Analyzer\bin\Debug\net6.0\Number Analyzer.dll
+C:\Users\kirva\Documents\Grand Circus\Class Repo Oct23\Number Analyzer\Number Analyzer\bin\Debug\net6.0\Number Analyzer.pdb
+C:\Users\kirva\Documents\Grand Circus\Class Repo Oct23\Number Analyzer\Number Analyzer\obj\Debug\net6.0\Number Analyzer.dll
+C:\Users\kirva\Documents\Grand Circus\Class Repo Oct23\Number Analyzer\Number Analyzer\obj\Debug\net6.0\refint\Number Analyzer.dll
+C:\Users\kirva\Documents\Grand Circus\Class Repo Oct23\Number Analyzer\Number Analyzer\obj\Debug\net6.0\Number Analyzer.pdb
+C:\Users\kirva\Documents\Grand Circus\Class Repo Oct23\Number Analyzer\Number Analyzer\obj\Debug\net6.0\Number Analyzer.genruntimeconfig.cache
+C:\Users\kirva\Documents\Grand Circus\Class Repo Oct23\Number Analyzer\Number Analyzer\obj\Debug\net6.0\ref\Number Analyzer.dll
